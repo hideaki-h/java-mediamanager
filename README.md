@@ -25,6 +25,7 @@
 ### 2. 設定ファイル修正
 各自の環境/要件に合わせて設定ファイルを修正してください。
 設定ファイルはmediamanager.propertiesで、設定項目は下記です。
+
 	- directory: 仕訳後ディレクトリーパス
 	- master_directory: 検収待ちディレクトリーパス
 	- accepted_directory: 削除待ちディレクトリーパス
